@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FPS Booster</string>
+    <string name="boost_now">⚡ Boost Now</string>
+    <string name="ram_status_placeholder">RAM free: --</string>
+    <string name="game_mode_label">Game Mode (Do Not Disturb)</string>
+    <string name="apps_list_title">Installed Apps</string>
+    <string name="game_tag">GAME</string>
+    <string name="protect_label">Protect</string>
+
+    <string name="shortcuts_title">Performance Shortcuts</string>
+    <string name="shortcuts_subtitle">Direct one-tap access to real system settings</string>
+    <string name="shortcut_display">Display</string>
+    <string name="shortcut_battery">Battery</string>
+    <string name="shortcut_developer">Developer Options</string>
+    <string name="developer_options_hidden">Developer Options chhupe hain. About Phone me Build Number 7 baar tap karke unlock karein.</string>
+    <string name="shortcut_open_failed">Ye settings screen is device par available nahi hai</string>
+</resources>
