@@ -1,0 +1,8 @@
+<resources>
+    <color name="backgroundDark">#0F1115</color>
+    <color name="accentGreen">#00E676</color>
+    <color name="textWhite">#FFFFFF</color>
+    <color name="textGray">#9AA0A6</color>
+    <color name="cardDark">#1B1E24</color>
+    <color name="accentBlue">#4C8DFF</color>
+</resources>
