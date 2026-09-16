@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.FPSBooster" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accentGreen</item>
+        <item name="colorPrimaryDark">@color/backgroundDark</item>
+        <item name="android:windowBackground">@color/backgroundDark</item>
+        <item name="colorAccent">@color/accentGreen</item>
+    </style>
+</resources>
